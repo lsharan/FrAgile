@@ -1,0 +1,17 @@
+{
+  "storyStatus": [
+    {
+      "xAxs": "No of Cards",
+      "yAxs": 15
+    },
+    {
+      "xAxs": "InProgress",
+      "yAxs": 12
+    },
+    {
+      "xAxs": "Completed",
+      "yAxs": 3
+    }
+
+  ]
+}
